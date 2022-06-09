@@ -8,7 +8,7 @@ const Register = () => {
             <form>
                 <p>
                     <label>
-                        Nazwa uzytkownika
+                        Nazwa użytkownika
                         <input type="text"/>
                     </label>
                 </p>
